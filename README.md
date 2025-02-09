@@ -8,7 +8,7 @@ It includes:
 - Monitoring and validating migrated data  
 - Optimizing post-migration performance  
 
-📄 [Download Project PDF](https://raw.githubusercontent.com/Akash-cmd1/Database-Migration-Project/main/Database%20Migration%20Project.pdf)  
+📄 [Download Project PDF](https://github.com/Akash-cmd1/Database-Migration-Project/raw/main/Database%20Migration%20Project.pdf)  
 
 ## 🛠️ Technologies Used  
 - **AWS DMS** (Database Migration Service)  
